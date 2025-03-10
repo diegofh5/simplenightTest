@@ -31,8 +31,7 @@ Before getting started, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   [git clone <repository-url>](https://github.com/diegofh5/simplenightTest.git)
    ```
 
 2. **Install dependencies:**
